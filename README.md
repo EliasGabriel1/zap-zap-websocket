@@ -1,5 +1,5 @@
 <div class="markdown prose w-full break-words dark:prose-invert dark">
-  <h1>Documentação para o arquivo server.js</h1>
+  <h1>Arquivo principal: server.js</h1>
   <p>Este arquivo contém o código do servidor Socket.io que é responsável por gerenciar as conexões
     e comunicações de chat em tempo real entre clientes.</p>
   <h2>Instalação e Configuração</h2>
